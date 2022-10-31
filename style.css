@@ -32,12 +32,12 @@ body
 
 #card .front
 {
-    background: url(/img/Bluefire.jpg);
+    background: url('./img/Bluefire.jpg');
     background-size: cover;
 }
 #card .back
 {
-    background: url(/img/Redfire.jpg);
+    background: url('./img/Redfire.jpg');
     background-size: cover;
     transform: rotateY(180deg);
 }
